@@ -1,0 +1,4 @@
+JWTPRIVATEKEY = THISISTHESECRETKEYUSEDINMONGO
+PORT = 4000
+DB = mongodb://localhost:27017/instructor-tracking
+SALT = 10
